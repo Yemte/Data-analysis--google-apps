@@ -1,6 +1,7 @@
 # Google-apps-analysis
 
 This project is part of The shortcut’s python for data analysis catalyst program.In this mini project the Google Apps dataset explored and analyzed. 
+
 1- Data cleaning:
 
 - string slicing and string methods to change columns like 'Size', 'Installs', 'Price', ... to numbers
